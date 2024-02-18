@@ -1,0 +1,10 @@
+[init]
+	defaultBranch = main
+[user]
+	email = ali@bazrafshan.net
+	name = Ali Bazrafshan
+	signingKey = BFCB4CBDE02DD403292742B6149AE73BD5D09DEE
+[commit]
+	gpgSign = true
+[tag]
+	gpgSign = true
